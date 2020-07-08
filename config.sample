@@ -1,0 +1,8 @@
+# copy this file to ".config.env" to store these variables
+DOCKER_HUB_USER=
+DOCKER_HUB_PASSWORD=
+HEROKU_API_KEY=
+CLOUDFLARE_TOKEN=
+EMAIL=user@example.com
+DOMAIN=example.com
+LE_IS_PROD=false
